@@ -79,13 +79,8 @@ Aisle 5   0   0   0   0   0   0   0   0   0   0   0   0
 - **Data Structures**: Uses arrays and structures to manage booking requests and theater layout.
 
 ## License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-
 This project was developed as part of a multithreading and concurrency assignment.
 
---- 
-
-You can adjust the formatting and content as needed before uploading to GitHub.
